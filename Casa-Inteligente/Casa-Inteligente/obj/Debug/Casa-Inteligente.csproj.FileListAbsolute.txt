@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\Casa-Inteligente\Casa-Inteligente\bin\Debug\Casa-Inteligente.exe.config
+C:\Users\dell\Desktop\Casa-Inteligente\Casa-Inteligente\bin\Debug\Casa-Inteligente.exe
+C:\Users\dell\Desktop\Casa-Inteligente\Casa-Inteligente\bin\Debug\Casa-Inteligente.pdb
+C:\Users\dell\Desktop\Casa-Inteligente\Casa-Inteligente\obj\Debug\Casa-Inteligente.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Casa-Inteligente\Casa-Inteligente\obj\Debug\Casa_Inteligente.Properties.Resources.resources
+C:\Users\dell\Desktop\Casa-Inteligente\Casa-Inteligente\obj\Debug\Casa-Inteligente.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Casa-Inteligente\Casa-Inteligente\obj\Debug\Casa-Inteligente.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Casa-Inteligente\Casa-Inteligente\obj\Debug\Casa-Inteligente.exe
+C:\Users\dell\Desktop\Casa-Inteligente\Casa-Inteligente\obj\Debug\Casa-Inteligente.pdb
